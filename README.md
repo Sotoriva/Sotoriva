@@ -1,9 +1,7 @@
-### Hi there 👋
+### aaaoooooowwwwww
+## Bem-Vindo ma friend
 
-<!--
-**Sotoriva/Sotoriva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sotoriva&theme=dracula&show_icons=true)](https://github.com/sotoriva/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sotoriva&layout=compact&langs_count=8&theme=dracula)](https://github.com/sotoriva/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sotoriva&theme=dracula&layout=compact)](https://github.com/sotoriva/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sotoriva&layout=compact&langs_count=10&theme=dracula)](https://github.com/sotoriva/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sotoriva&theme=dracula&layout=compact&langs_count=10)](https://github.com/sotoriva/github-readme-stats)
