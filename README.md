@@ -2,7 +2,7 @@
 
 Olá, eu sou o João Pedro Sotoriva Ros.
 
-Sou estudante de engenharia de software, atualmete no 7 semestre, desenvolvedor junior na [Dataexport](https://www.dataexport.com.br) e rumo ao lançamento do BeFleet.
+Sou estudante de engenharia de software, atualmete no 7 semestre, desenvolvedor junior na [Dataexport](https://www.dataexport.com.br) e rumo ao lançamento do Fleet.
 
 
 <!--Here are some ideas to get you started:
