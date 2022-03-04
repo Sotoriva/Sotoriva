@@ -1,8 +1,7 @@
-## Bem-Vindo ao perfil
+## Bem-Vindo, eu sou o João Pedro Sotoriva Ros.
 
-Olá, eu sou o João Pedro Sotoriva Ros.
+<!--Trabalhando como desenvolvedor na [Dataexport](https://www.dataexport.com.br), estudante de engenharia de software, atualmete no 7 semestre e -->
 
-Sou estudante de engenharia de software, atualmete no 7 semestre, desenvolvedor junior na [Dataexport](https://www.dataexport.com.br) e rumo ao lançamento do Fleet.
 
 
 <!--Here are some ideas to get you started:
@@ -17,6 +16,6 @@ Sou estudante de engenharia de software, atualmete no 7 semestre, desenvolvedor 
 - ⚡ Fun fact: ...
 -->
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sotoriva&theme=dracula&show_icons=true)](https://github.com/sotoriva/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sotoriva&layout=compact&langs_count=10&theme=dracula)](https://github.com/sotoriva/github-readme-stats)-->
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sotoriva&theme=dracula&layout=compact)](https://github.com/sotoriva/github-readme-stats)-->
+[![Status do GitHub de João Sotoriva](https://github-readme-stats.vercel.app/api?username=Sotoriva&theme=dracula&show_icons=true)](https://github.com/sotoriva/github-readme-stats)
+[![Status do GitHub de João Sotoriva](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sotoriva&layout=compact&langs_count=10&theme=dracula)](https://github.com/sotoriva/github-readme-stats)
+[![Status do GitHub de João Sotoriva](https://github-readme-stats.vercel.app/api/wakatime?username=Sotoriva&theme=dracula&layout=compact)](https://github.com/sotoriva/github-readme-stats)
