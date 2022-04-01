@@ -16,6 +16,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Status do GitHub de João Sotoriva](https://github-readme-stats.vercel.app/api?username=Sotoriva&theme=dracula&show_icons=true)](https://github.com/sotoriva/github-readme-stats)
 [![Status do GitHub de João Sotoriva](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sotoriva&layout=compact&langs_count=10&theme=dracula)](https://github.com/sotoriva/github-readme-stats)
-[![Status do GitHub de João Sotoriva](https://github-readme-stats.vercel.app/api/wakatime?username=Sotoriva&theme=dracula&layout=compact)](https://github.com/sotoriva/github-readme-stats)
