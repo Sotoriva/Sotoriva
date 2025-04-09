@@ -1,4 +1,4 @@
-## Bem-Vindo, eu sou o João Pedro Sotoriva Ros.
+## Bem-Vindo, eu sou o João Pedro Sotoriva Ros e este é meu GitHub.
 
 <!--Trabalhando como desenvolvedor na [Dataexport](https://www.dataexport.com.br), estudante de engenharia de software, atualmete no 7 semestre e -->
 
